@@ -1,0 +1,33 @@
+{
+  "name": "vuejs-calendar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nicolascbarbosa/vuejs-calendar.git",
+  "author": "Nicolas <nicolascb.claudio@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@iclinic/calendar-challenge-client": "^0.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-syntax-dynamic-import": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "@commitlint/cli": "^7.2.1",
+    "@commitlint/config-conventional": "^7.1.2",
+    "babel-loader": "^8.0.4",
+    "cross-env": "^5.2.0",
+    "css-loader": "^1.0.0",
+    "eslint": "^5.7.0",
+    "eslint-plugin-vue": "^5.0.0-beta.3",
+    "html-webpack-plugin": "^3.2.0",
+    "husky": "^1.1.2",
+    "jest": "^23.6.0",
+    "node-sass": "^4.9.4",
+    "sass-loader": "^7.1.0",
+    "vue-jest": "^3.0.0",
+    "vue-loader": "^15.4.2",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
